@@ -1,7 +1,7 @@
 ```markdown
 # Excel Data Validation Frontend
 
-This document explains how to set up and run the **Excel Data Validation Frontend** locally.
+This document explains how to set up and run the Excel Data Validation Frontend locally.
 
 ---
 
@@ -30,5 +30,3 @@ npm run dev
 ```
 
 The server will be running at `http://localhost:3000`.
-
----
